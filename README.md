@@ -1,3 +1,3 @@
-# M+ Markdown Editor media
+# ML Markdown Editor Plus media
 
-Public screenshots, demonstrations, and logo for the M+ Markdown Editor Marketplace listing. This repository contains no extension source code.
+Public ML+ branding, screenshots, and demonstrations for the ML Markdown Editor Plus Marketplace listing. This repository contains no extension source code.
